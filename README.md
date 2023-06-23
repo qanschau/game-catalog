@@ -3,5 +3,5 @@
 > Project status: under construction
 
 ```
-install test
+node app.js
 ```
